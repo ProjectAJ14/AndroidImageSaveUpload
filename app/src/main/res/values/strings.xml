@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndriodImage</string>
+    <string name="convert_saved_image_to_base64">Convert Saved Image to BASE64</string>
+    <string name="base64">BASE64</string>
+    <string name="save_image">Save Image</string>
+    <string name="get_image">Get Image</string>
+    <string name="title_activity_image_screen">ImageScreen</string>
+</resources>
